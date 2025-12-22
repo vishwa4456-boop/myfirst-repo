@@ -2,3 +2,7 @@ learn to git the github
 
 
 let me check what happens to local file if i change it on git hub 
+
+
+
+let me try fetch option s
